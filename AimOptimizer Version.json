@@ -1,1 +1,4 @@
-AimOptimizerExeVersion = 1.0
+{
+    "AimOptimizerExeVersion": 1.1,
+    "AimOptimizerExeUrl": "https://github.com/onlymansoor/AimOptimizer/raw/refs/heads/main/AimOptimizer.exe"
+}
